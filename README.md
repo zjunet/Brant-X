@@ -23,7 +23,7 @@ Brant-X employs the EEG foundation model Brant-2 as its EEG encoder to transfer 
 
 ### Review of Public Multi-type Physio-signal Datasets
 
-To serve as a research resource for multi-type signal modeling, we summarize those public datasets that contain two or more types of signals among EEG, EOG, ECG, and EMG, as presented in `dataset_review_table.pdf`. 
+To serve as a research resource for multi-type signal modeling, we summarize those public datasets that contain two or more types of signals among EEG, EOG, ECG, and EMG, as presented [here](https://github.com/DaozeZhang/Brant-X/blob/main/dataset_review_table.pdf). 
 
 In the table, we provide statistical information including: 
 - data size, 
