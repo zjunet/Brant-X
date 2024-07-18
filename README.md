@@ -6,7 +6,7 @@ Brant-X is the first physiological signal alignment framework that can model var
 
 ### Promotional Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-CdWjLw-gZA&list=PLn0nrSd4xjja0X85oQRfVQarMKL-pocwR/0.jpg)](https://www.youtube.com/watch?v=-CdWjLw-gZA&list=PLn0nrSd4xjja0X85oQRfVQarMKL-pocwR)
+[![YouTube](http://i.ytimg.com/vi/-CdWjLw-gZA/hqdefault.jpg)](https://www.youtube.com/watch?v=-CdWjLw-gZA)
 
 <br />
 
